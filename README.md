@@ -2,10 +2,12 @@
 
   ENG 🇺🇸
 ## 📝Functions
+[Screenshot-17](https://github.com/GuilhermedMS/Bloxflip-Predictor/assets/155796519/b98543c2-f6ab-4270-8673-ecebcaa2b915)
 /mines (tile_amt) (round_id)
 /towers (tile_amt) (round_id)
 /roulette (round_id)
-With percentage accuracy and more... 🤷‍♂️
+With percentage accuracy and more... 🤷‍♂️!
+
 
 ## ⚙️How to install?
 Put your discord token at the end of main.py
@@ -17,6 +19,7 @@ Start main.py
 ----------------------------------------------------------
   PT-BR 🇧🇷
 ## 📝Funções
+[Screenshot-17](https://github.com/GuilhermedMS/Bloxflip-Predictor/assets/155796519/b98543c2-f6ab-4270-8673-ecebcaa2b915)
 /mines (tile_amt) (round_id)
 /towers (tile_amt) (round_id)
 /roulette (round_id)
