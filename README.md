@@ -1,6 +1,5 @@
 # Predictor completo para você vender, usar e mais.
 
-[image](https://ibb.co/hRYNmwL)
   ENG 🇺🇸
 ## 📝Functions
 /mines (tile_amt) (round_id)
